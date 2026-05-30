@@ -270,121 +270,121 @@
       "freq": "106.700",
       "name": "HKR-Hrvatski Katolicki Radio",
       "antenna": "1",
-      "logo": "",
-      "itu": "",
+      "logo": "https://tef.noobish.eu/logos/HRV/C204.png",
+      "itu": "HRV",
       "picode": "C204"
     },
     {
       "freq": "99.300",
       "name": "HR 1",
       "antenna": "1",
-      "logo": "",
-      "itu": "",
+      "logo": "https://tef.noobish.eu/logos/HRV/C201.png",
+      "itu": "HRV",
       "picode": "C201"
     },
     {
       "freq": "91.300",
       "name": "HR 1",
       "antenna": "1",
-      "logo": "",
-      "itu": "",
-      "picode": "?"
+      "logo": "https://tef.noobish.eu/logos/HRV/C201.png",
+      "itu": "HRV",
+      "picode": "C201"
     },
     {
       "freq": "95.100",
       "name": "HR 1",
       "antenna": "",
-      "logo": "",
-      "itu": "",
-      "picode": "?"
+      "logo": "https://tef.noobish.eu/logos/HRV/C201.png",
+      "itu": "HRV",
+      "picode": "C201"
     },
     {
       "freq": "105.300",
       "name": "HR 2",
       "antenna": "1",
-      "logo": "",
-      "itu": "",
-      "picode": "?"
+      "logo": "https://tef.noobish.eu/logos/HRV/C202.png",
+      "itu": "HRV",
+      "picode": "C202"
     },
     {
       "freq": "98.100",
       "name": "HR 2",
       "antenna": "",
-      "logo": "",
-      "itu": "",
-      "picode": "?"
+      "logo": "https://tef.noobish.eu/logos/HRV/C202.png",
+      "itu": "HRV",
+      "picode": "C202"
     },
     {
       "freq": "93.200",
       "name": "HR 3",
       "antenna": "1",
-      "logo": "",
-      "itu": "",
-      "picode": "?"
+      "logo": "https://tef.noobish.eu/logos/HRV/C203.png",
+      "itu": "HRV",
+      "picode": "C203"
     },
     {
       "freq": "100.500",
       "name": "HR 3",
       "antenna": "",
-      "logo": "",
-      "itu": "",
-      "picode": "?"
+      "logo": "https://tef.noobish.eu/logos/HRV/C203.png",
+      "itu": "HRV",
+      "picode": "C203"
     },
     {
       "freq": "101.300",
       "name": "HRT R. Pula",
       "antenna": "1",
-      "logo": "",
-      "itu": "",
+      "logo": "https://tef.noobish.eu/logos/HRV/C318.png",
+      "itu": "HRV",
       "picode": "C318"
     },
     {
       "freq": "96.900",
       "name": "HRT R. Istra",
       "antenna": "1",
-      "logo": "",
-      "itu": "",
+      "logo": "https://tef.noobish.eu/logos/HRV/C386.png",
+      "itu": "HRV",
       "picode": "C386"
     },
     {
       "freq": "98.000",
       "name": "R. Istra",
       "antenna": "",
-      "logo": "",
-      "itu": "",
-      "picode": "?"
+      "logo": "https://tef.noobish.eu/logos/HRV/C386.png",
+      "itu": "HRV",
+      "picode": "C386"
     },
     {
       "freq": "90.700",
       "name": "Rovinj FM (HRV)",
       "antenna": "1",
-      "logo": "",
-      "itu": "",
-      "picode": "?"
+      "logo": "https://tef.noobish.eu/logos/HRV/C48F.png",
+      "itu": "HRV",
+      "picode": "C48F"
     },
     {
       "freq": "104.700",
       "name": "HRT Radio Rijeka",
       "antenna": "1",
-      "logo": "",
-      "itu": "",
+      "logo": "https://tef.noobish.eu/logos/HRV/C319.png",
+      "itu": "HRV",
       "picode": "C319"
     },
     {
       "freq": "99.700",
       "name": "R. Labin (HRV)",
       "antenna": "",
-      "logo": "",
-      "itu": "",
-      "picode": "?"
+      "logo": "https://tef.noobish.eu/logos/HRV/C44A.png",
+      "itu": "HRV",
+      "picode": "C44A"
     },
     {
       "freq": "101.700",
       "name": "R. Eurostar",
       "antenna": "",
-      "logo": "",
-      "itu": "",
-      "picode": "?"
+      "logo": "https://tef.noobish.eu/logos/HRV/C463.png",
+      "itu": "HRV",
+      "picode": "C463"
     }
   ],
   "Slovenia": [
@@ -392,89 +392,89 @@
       "freq": "91.800",
       "name": "R. Prvi - Kravec",
       "antenna": "",
-      "logo": "",
-      "itu": "",
-      "picode": "?"
+      "logo": "https://tef.noobish.eu/logos/SVN/9201.svg",
+      "itu": "SVN",
+      "picode": "9201"
     },
     {
       "freq": "95.300",
       "name": "Val 202",
       "antenna": "",
-      "logo": "",
-      "itu": "",
+      "logo": "https://tef.noobish.eu/logos/SVN/9202.svg",
+      "itu": "SVN",
       "picode": "9202"
     },
     {
       "freq": "93.500",
       "name": "Val 202",
       "antenna": "",
-      "logo": "",
-      "itu": "",
-      "picode": "?"
+      "logo": "https://tef.noobish.eu/logos/SVN/9202.svg",
+      "itu": "SVN",
+      "picode": "9202"
     },
     {
       "freq": "96.100",
       "name": "ARS",
       "antenna": "",
-      "logo": "",
-      "itu": "",
-      "picode": "?"
+      "logo": "https://tef.noobish.eu/logos/SVN/9203.svg",
+      "itu": "SVN",
+      "picode": "9203"
     },
     {
       "freq": "105.700",
       "name": "ARS",
       "antenna": "",
-      "logo": "",
-      "itu": "",
-      "picode": "5225"
+      "logo": "https://tef.noobish.eu/logos/SVN/9203.svg",
+      "itu": "SVN",
+      "picode": "9203"
     },
     {
       "freq": "103.100",
       "name": "R. Capodistria (//1170 khz)",
       "antenna": "",
-      "logo": "",
-      "itu": "",
-      "picode": "?"
+      "logo": "https://tef.noobish.eu/logos/SVN/9411.png",
+      "itu": "SVN",
+      "picode": "9411"
     },
     {
       "freq": "104.300",
       "name": "R. Koper (// 549 khz)",
       "antenna": "",
-      "logo": "",
-      "itu": "",
-      "picode": "?"
+      "logo": "https://tef.noobish.eu/logos/SVN/9421.png",
+      "itu": "SVN",
+      "picode": "9421"
     },
     {
       "freq": "104.100",
       "name": "R. Koper",
       "antenna": "",
-      "logo": "",
-      "itu": "",
-      "picode": "?"
+      "logo": "https://tef.noobish.eu/logos/SVN/9421.png",
+      "itu": "SVN",
+      "picode": "9421"
     },
     {
       "freq": "98.800",
       "name": "Val 202",
       "antenna": "",
-      "logo": "",
-      "itu": "",
-      "picode": "?"
+      "logo": "https://tef.noobish.eu/logos/SVN/9201.svg",
+      "itu": "SVN",
+      "picode": "9201"
     },
     {
       "freq": "0.549",
       "name": "R. Koper",
       "antenna": "",
-      "logo": "",
-      "itu": "",
-      "picode": "?"
+      "logo": "https://tef.noobish.eu/logos/SVN/9411.png",
+      "itu": "SVN",
+      "picode": "9411"
     },
     {
       "freq": "1.170",
       "name": "R. Capodistria",
       "antenna": "",
-      "logo": "",
-      "itu": "",
-      "picode": "?"
+      "logo": "https://tef.noobish.eu/logos/SVN/9411.png",
+      "itu": "SVN",
+      "picode": "9411"
     }
   ],
   "Friuli": [
@@ -738,10 +738,10 @@
     },
     {
       "freq": "0.549",
-      "name": "",
+      "name": "R. Koper",
       "antenna": "1",
       "logo": "",
-      "itu": "",
+      "itu": "SLV",
       "picode": "?"
     },
     {
