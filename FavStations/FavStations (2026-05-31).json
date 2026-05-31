@@ -1,0 +1,779 @@
+{
+  "data": {
+    "Stazioni locali": [
+      {
+        "freq": "90.800",
+        "name": "RAI Radio1",
+        "antenna": "1",
+        "logo": "https://tef.noobish.eu/logos/I/5201.png",
+        "itu": "",
+        "picode": "5201"
+      },
+      {
+        "freq": "93.400",
+        "name": "RAI Radio2",
+        "antenna": "0",
+        "logo": "https://tef.noobish.eu/logos/I/5202.png",
+        "itu": "",
+        "picode": "5202"
+      },
+      {
+        "freq": "99.600",
+        "name": "RAI Radio3",
+        "antenna": "0",
+        "logo": "https://tef.noobish.eu/logos/I/5203.png",
+        "itu": "",
+        "picode": "5203"
+      },
+      {
+        "freq": "89.700",
+        "name": "RAI GR Parlamento",
+        "antenna": "0",
+        "logo": "https://tef.noobish.eu/logos/I/5206.png",
+        "itu": "",
+        "picode": "5206"
+      },
+      {
+        "freq": "103.300",
+        "name": "RAI IsoRadio",
+        "antenna": "1",
+        "logo": "https://tef.noobish.eu/logos/I/5209.png",
+        "itu": "I",
+        "picode": "5209"
+      },
+      {
+        "freq": "104.000",
+        "name": "Radio Radicale",
+        "antenna": "1",
+        "logo": "https://tef.noobish.eu/logos/I/5210.png",
+        "itu": "",
+        "picode": "5210"
+      },
+      {
+        "freq": "100.300",
+        "name": "Radio 24",
+        "antenna": "0",
+        "logo": "https://tef.noobish.eu/logos/I/5245.png",
+        "itu": "",
+        "picode": "5245"
+      },
+      {
+        "freq": "90.600",
+        "name": "Radiofreccia",
+        "antenna": "0",
+        "logo": "https://tef.noobish.eu/logos/I/5293.png",
+        "itu": "",
+        "picode": "5293"
+      },
+      {
+        "freq": "88.400",
+        "name": "Radio 105",
+        "antenna": "0",
+        "logo": "https://tef.noobish.eu/logos/I/5211.svg",
+        "itu": "",
+        "picode": "5211"
+      },
+      {
+        "freq": "94.000",
+        "name": "RMC - Radio Monte Carlo",
+        "antenna": "0",
+        "logo": "https://tef.noobish.eu/logos/I/5213.png",
+        "itu": "",
+        "picode": "5213"
+      },
+      {
+        "freq": "88.800",
+        "name": "Radio Deejay",
+        "antenna": "0",
+        "logo": "https://tef.noobish.eu/logos/I/5214.png",
+        "itu": "",
+        "picode": "5214"
+      },
+      {
+        "freq": "88.600",
+        "name": "Radio Capital",
+        "antenna": "0",
+        "logo": "https://tef.noobish.eu/logos/I/5219.png",
+        "itu": "",
+        "picode": "5219"
+      },
+      {
+        "freq": "105.300",
+        "name": "Radio Italia SoloMusicaItaliana",
+        "antenna": "0",
+        "logo": "https://tef.noobish.eu/logos/I/5220.png",
+        "itu": "",
+        "picode": "5220"
+      },
+      {
+        "freq": "89.500",
+        "name": "Radio Kiss Kiss",
+        "antenna": "0",
+        "logo": "https://tef.noobish.eu/logos/I/5225.png",
+        "itu": "",
+        "picode": "5225"
+      },
+      {
+        "freq": "97.900",
+        "name": "m2o",
+        "antenna": "0",
+        "logo": "https://tef.noobish.eu/logos/I/5233.png",
+        "itu": "",
+        "picode": "5233"
+      },
+      {
+        "freq": "90.300",
+        "name": "RDS",
+        "antenna": "1",
+        "logo": "https://tef.noobish.eu/logos/I/5264.png",
+        "itu": "",
+        "picode": "5264"
+      },
+      {
+        "freq": "106.500",
+        "name": "Radio Maria",
+        "antenna": "1",
+        "logo": "https://tef.noobish.eu/logos/I/51CC.png",
+        "itu": "",
+        "picode": "51CC"
+      },
+      {
+        "freq": "95.900",
+        "name": "Radio LatteMiele (Emilia Romagna)",
+        "antenna": "1",
+        "logo": "https://tef.noobish.eu/logos/I/5355.png",
+        "itu": "",
+        "picode": "5355"
+      },
+      {
+        "freq": "92.800",
+        "name": "Radio Studio Delta",
+        "antenna": "0",
+        "logo": "https://cdn.onlineradiobox.com/img/l/1/15521.v2.png",
+        "itu": "I",
+        "picode": "53FB"
+      },
+      {
+        "freq": "102.200",
+        "name": "Radio Centrale",
+        "antenna": "0",
+        "logo": "https://tef.noobish.eu/logos/I/5842_RADIOCENTRALE.png",
+        "itu": "",
+        "picode": "5842"
+      },
+      {
+        "freq": "94.200",
+        "name": "Radio Cesena",
+        "antenna": "1",
+        "logo": "https://cdn.onlineradiobox.com/img/l/0/143650.v2.png",
+        "itu": "I",
+        "picode": "5846"
+      },
+      {
+        "freq": "103.000",
+        "name": "Radio Gamma (Romagna)",
+        "antenna": "1",
+        "logo": "https://tef.noobish.eu/logos/I/5843_RADIOGAMMAROMAGNA.png",
+        "itu": "",
+        "picode": "5843"
+      },
+      {
+        "freq": "93.700",
+        "name": "Radio Record",
+        "antenna": "1",
+        "logo": "https://cdn.onlineradiobox.com/img/l/3/13943.v5.png",
+        "itu": "I",
+        "picode": "5E21"
+      },
+      {
+        "freq": "104.200",
+        "name": "Radio Birikina",
+        "antenna": "1",
+        "logo": "https://tef.noobish.eu/logos/I/536E.png",
+        "itu": "",
+        "picode": "536E"
+      },
+      {
+        "freq": "94.900",
+        "name": "Radio Bruno",
+        "antenna": "0",
+        "logo": "https://tef.noobish.eu/logos/I/534D.png",
+        "itu": "",
+        "picode": "534D"
+      },
+      {
+        "freq": "95.200",
+        "name": "Radio Italia Anni 60 (Emilia Romagna-Marche)",
+        "antenna": "1",
+        "logo": "https://tef.noobish.eu/logos/I/5495.png",
+        "itu": "",
+        "picode": "5495"
+      },
+      {
+        "freq": "106.000",
+        "name": "Virgin Radio",
+        "antenna": "0",
+        "logo": "https://tef.noobish.eu/logos/I/5241.png",
+        "itu": "",
+        "picode": "5241"
+      },
+      {
+        "freq": "98.900",
+        "name": "Radio Zeta",
+        "antenna": "1",
+        "logo": "https://tef.noobish.eu/logos/I/5299.png",
+        "itu": "",
+        "picode": "5299"
+      },
+      {
+        "freq": "106.200",
+        "name": "Radio Subasio",
+        "antenna": "1",
+        "logo": "https://tef.noobish.eu/logos/I/53FD.png",
+        "itu": "",
+        "picode": "53FD"
+      },
+      {
+        "freq": "102.400",
+        "name": "RTL 102.5",
+        "antenna": "1",
+        "logo": "https://tef.noobish.eu/logos/I/5218.png",
+        "itu": "",
+        "picode": "5218"
+      },
+      {
+        "freq": "107.000",
+        "name": "R101",
+        "antenna": "0",
+        "logo": "https://tef.noobish.eu/logos/I/5215.png",
+        "itu": "",
+        "picode": "5215"
+      },
+      {
+        "freq": "98.400",
+        "name": "Radio Sportiva",
+        "antenna": "1",
+        "logo": "https://tef.noobish.eu/logos/I/5244.png",
+        "itu": "",
+        "picode": "5244"
+      },
+      {
+        "freq": "87.800",
+        "name": "Radio Kiss Kiss",
+        "antenna": "0",
+        "logo": "https://tef.noobish.eu/logos/I/5225.png",
+        "itu": "",
+        "picode": "5225"
+      }
+    ],
+    "Croazia": [
+      {
+        "freq": "106.700",
+        "name": "HKR-Hrvatski Katolicki Radio",
+        "antenna": "1",
+        "logo": "https://tef.noobish.eu/logos/HRV/C204.png",
+        "itu": "HRV",
+        "picode": "C204"
+      },
+      {
+        "freq": "99.300",
+        "name": "HR 1",
+        "antenna": "1",
+        "logo": "https://tef.noobish.eu/logos/HRV/C201.png",
+        "itu": "HRV",
+        "picode": "C201"
+      },
+      {
+        "freq": "91.300",
+        "name": "HR 1",
+        "antenna": "1",
+        "logo": "https://tef.noobish.eu/logos/HRV/C201.png",
+        "itu": "HRV",
+        "picode": "C201"
+      },
+      {
+        "freq": "95.100",
+        "name": "HR 1",
+        "antenna": "",
+        "logo": "https://tef.noobish.eu/logos/HRV/C201.png",
+        "itu": "HRV",
+        "picode": "C201"
+      },
+      {
+        "freq": "105.300",
+        "name": "HR 2",
+        "antenna": "1",
+        "logo": "https://tef.noobish.eu/logos/HRV/C202.png",
+        "itu": "HRV",
+        "picode": "C202"
+      },
+      {
+        "freq": "98.100",
+        "name": "HR 2",
+        "antenna": "",
+        "logo": "https://tef.noobish.eu/logos/HRV/C202.png",
+        "itu": "HRV",
+        "picode": "C202"
+      },
+      {
+        "freq": "93.200",
+        "name": "HR 3",
+        "antenna": "1",
+        "logo": "https://tef.noobish.eu/logos/HRV/C203.png",
+        "itu": "HRV",
+        "picode": "C203"
+      },
+      {
+        "freq": "100.500",
+        "name": "HR 3",
+        "antenna": "",
+        "logo": "https://tef.noobish.eu/logos/HRV/C203.png",
+        "itu": "HRV",
+        "picode": "C203"
+      },
+      {
+        "freq": "101.300",
+        "name": "HRT R. Pula",
+        "antenna": "1",
+        "logo": "https://tef.noobish.eu/logos/HRV/C318.png",
+        "itu": "HRV",
+        "picode": "C318"
+      },
+      {
+        "freq": "96.900",
+        "name": "HRT R. Istra",
+        "antenna": "1",
+        "logo": "https://tef.noobish.eu/logos/HRV/C386.png",
+        "itu": "HRV",
+        "picode": "C386"
+      },
+      {
+        "freq": "98.000",
+        "name": "R. Istra",
+        "antenna": "",
+        "logo": "https://tef.noobish.eu/logos/HRV/C386.png",
+        "itu": "HRV",
+        "picode": "C386"
+      },
+      {
+        "freq": "90.700",
+        "name": "Rovinj FM (HRV)",
+        "antenna": "1",
+        "logo": "https://tef.noobish.eu/logos/HRV/C48F.png",
+        "itu": "HRV",
+        "picode": "C48F"
+      },
+      {
+        "freq": "104.700",
+        "name": "HRT Radio Rijeka",
+        "antenna": "1",
+        "logo": "https://tef.noobish.eu/logos/HRV/C319.png",
+        "itu": "HRV",
+        "picode": "C319"
+      },
+      {
+        "freq": "99.700",
+        "name": "R. Labin (HRV)",
+        "antenna": "",
+        "logo": "https://tef.noobish.eu/logos/HRV/C44A.png",
+        "itu": "HRV",
+        "picode": "C44A"
+      },
+      {
+        "freq": "101.700",
+        "name": "R. Eurostar",
+        "antenna": "",
+        "logo": "https://tef.noobish.eu/logos/HRV/C463.png",
+        "itu": "HRV",
+        "picode": "C463"
+      }
+    ],
+    "Slovenia": [
+      {
+        "freq": "91.800",
+        "name": "R. Prvi - Kravec",
+        "antenna": "",
+        "logo": "https://tef.noobish.eu/logos/SVN/9201.svg",
+        "itu": "SVN",
+        "picode": "9201"
+      },
+      {
+        "freq": "95.300",
+        "name": "Val 202",
+        "antenna": "",
+        "logo": "https://tef.noobish.eu/logos/SVN/9202.svg",
+        "itu": "SVN",
+        "picode": "9202"
+      },
+      {
+        "freq": "93.500",
+        "name": "Val 202",
+        "antenna": "",
+        "logo": "https://tef.noobish.eu/logos/SVN/9202.svg",
+        "itu": "SVN",
+        "picode": "9202"
+      },
+      {
+        "freq": "96.100",
+        "name": "ARS",
+        "antenna": "",
+        "logo": "https://tef.noobish.eu/logos/SVN/9203.svg",
+        "itu": "SVN",
+        "picode": "9203"
+      },
+      {
+        "freq": "105.700",
+        "name": "ARS",
+        "antenna": "",
+        "logo": "https://tef.noobish.eu/logos/SVN/9203.svg",
+        "itu": "SVN",
+        "picode": "9203"
+      },
+      {
+        "freq": "103.100",
+        "name": "R. Capodistria (//1170 khz)",
+        "antenna": "",
+        "logo": "https://tef.noobish.eu/logos/SVN/9411.png",
+        "itu": "SVN",
+        "picode": "9411"
+      },
+      {
+        "freq": "104.300",
+        "name": "R. Koper (// 549 khz)",
+        "antenna": "",
+        "logo": "https://tef.noobish.eu/logos/SVN/9421.png",
+        "itu": "SVN",
+        "picode": "9421"
+      },
+      {
+        "freq": "104.100",
+        "name": "R. Koper",
+        "antenna": "",
+        "logo": "https://tef.noobish.eu/logos/SVN/9421.png",
+        "itu": "SVN",
+        "picode": "9421"
+      },
+      {
+        "freq": "98.800",
+        "name": "Val 202",
+        "antenna": "",
+        "logo": "https://tef.noobish.eu/logos/SVN/9201.svg",
+        "itu": "SVN",
+        "picode": "9201"
+      },
+      {
+        "freq": "0.549",
+        "name": "R. Koper",
+        "antenna": "",
+        "logo": "https://tef.noobish.eu/logos/SVN/9411.png",
+        "itu": "SVN",
+        "picode": "9411"
+      },
+      {
+        "freq": "1.170",
+        "name": "R. Capodistria",
+        "antenna": "",
+        "logo": "https://tef.noobish.eu/logos/SVN/9411.png",
+        "itu": "SVN",
+        "picode": "9411"
+      }
+    ],
+    "Friuli": [
+      {
+        "freq": "103.900",
+        "name": "Rai Radio Trst A (ts)",
+        "antenna": "1",
+        "logo": "https://tef.noobish.eu/logos/I/5404.svg",
+        "itu": "I",
+        "picode": "5404"
+      },
+      {
+        "freq": "104.800",
+        "name": "Radio Italia SoloMusicaItaliana (pn)",
+        "antenna": "0",
+        "logo": "https://tef.noobish.eu/logos/I/5220.png",
+        "itu": "",
+        "picode": "5220"
+      },
+      {
+        "freq": "98.800",
+        "name": "RMC (pn)",
+        "antenna": "1",
+        "logo": "https://tef.noobish.eu/logos/I/5213.png",
+        "itu": "I",
+        "picode": "5213"
+      },
+      {
+        "freq": "99.000",
+        "name": "R. Freccia (pn)",
+        "antenna": "",
+        "logo": "https://tef.noobish.eu/logos/I/5293.png",
+        "itu": "I",
+        "picode": "5293"
+      },
+      {
+        "freq": "99.800",
+        "name": "Rai 3 (ud)",
+        "antenna": "",
+        "logo": "https://tef.noobish.eu/logos/I/5203.png",
+        "itu": "I",
+        "picode": "5203"
+      },
+      {
+        "freq": "100.000",
+        "name": "RDS (tv)",
+        "antenna": "",
+        "logo": "https://tef.noobish.eu/logos/I/5264.png",
+        "itu": "I",
+        "picode": "5264"
+      },
+      {
+        "freq": "100.200",
+        "name": "M2O (ud)",
+        "antenna": "",
+        "logo": "https://tef.noobish.eu/logos/I/5233.png",
+        "itu": "I",
+        "picode": "5233"
+      },
+      {
+        "freq": "100.400",
+        "name": "inBlu (ud)",
+        "antenna": "",
+        "logo": "",
+        "itu": "I",
+        "picode": "C410???"
+      },
+      {
+        "freq": "101.100",
+        "name": "Radio SorRriso (ud)",
+        "antenna": "",
+        "logo": "https://tef.noobish.eu/logos/I/5372.png",
+        "itu": "I",
+        "picode": "5372"
+      }
+    ],
+    "Lombardia": [
+      {
+        "freq": "106.700",
+        "name": "R. Italia SMI",
+        "antenna": "0",
+        "logo": "https://tef.noobish.eu/logos/I/5220.png",
+        "itu": "I",
+        "picode": "5220"
+      },
+      {
+        "freq": "101.400",
+        "name": "R. Maria (bs)",
+        "antenna": "0",
+        "logo": "https://tef.noobish.eu/logos/I/51CC.png",
+        "itu": "I",
+        "picode": "51CC"
+      },
+      {
+        "freq": "103.500",
+        "name": "R. Number One (bs)",
+        "antenna": "0",
+        "logo": "https://tef.noobish.eu/logos/I/5238.png",
+        "itu": "I",
+        "picode": "5238"
+      },
+      {
+        "freq": "104.800",
+        "name": "R. 24 (bg)",
+        "antenna": "0",
+        "logo": "https://tef.noobish.eu/logos/I/5245.png",
+        "itu": "I",
+        "picode": "5245"
+      },
+      {
+        "freq": "101.200",
+        "name": "R. 101 (bg)",
+        "antenna": "0",
+        "logo": "https://tef.noobish.eu/logos/I/5215.png",
+        "itu": "I",
+        "picode": "5215"
+      }
+    ],
+    "Veneto": [
+      {
+        "freq": "99.800",
+        "name": "RDS (vi)",
+        "antenna": "1",
+        "logo": "https://tef.noobish.eu/logos/I/5264.png",
+        "itu": "I",
+        "picode": "5264"
+      },
+      {
+        "freq": "92.100",
+        "name": "Rai GRP (vi)",
+        "antenna": "",
+        "logo": "https://tef.noobish.eu/logos/I/5206.png",
+        "itu": "I",
+        "picode": "5206"
+      },
+      {
+        "freq": "87.600",
+        "name": "Easy Rock (tv)",
+        "antenna": "0",
+        "logo": "https://cdn.onlineradiobox.com/img/l/5/88025.v17.png",
+        "itu": "I",
+        "picode": "5361"
+      },
+      {
+        "freq": "100.000",
+        "name": "RDS (tv)",
+        "antenna": "0",
+        "logo": "https://tef.noobish.eu/logos/I/5264.png",
+        "itu": "I",
+        "picode": "5264"
+      },
+      {
+        "freq": "95.300",
+        "name": "R. Cafè (vi)",
+        "antenna": "0",
+        "logo": "https://tef.noobish.eu/logos/I/53A6.png",
+        "itu": "I",
+        "picode": "53A6"
+      },
+      {
+        "freq": "103.500",
+        "name": "R. Bella e Monella (vi)",
+        "antenna": "0",
+        "logo": "https://tef.noobish.eu/logos/I/5370.png",
+        "itu": "I",
+        "picode": "5370"
+      },
+      {
+        "freq": "101.900",
+        "name": "R. Maria (vr)",
+        "antenna": "",
+        "logo": "https://tef.noobish.eu/logos/I/51CC.png",
+        "itu": "I",
+        "picode": "51CC"
+      },
+      {
+        "freq": "96.200",
+        "name": "R. Marilù (vr)",
+        "antenna": "0",
+        "logo": "https://tef.noobish.eu/logos/I/538A.png",
+        "itu": "I",
+        "picode": "538A"
+      },
+      {
+        "freq": "91.600",
+        "name": "R. Piterpan (pd)",
+        "antenna": "",
+        "logo": "https://tef.noobish.eu/logos/I/5373.png",
+        "itu": "I",
+        "picode": "5373"
+      }
+    ],
+    "Marche": [
+      {
+        "freq": "92.300",
+        "name": "RAI Radio3",
+        "antenna": "0",
+        "logo": "https://tef.noobish.eu/logos/I/5203.png",
+        "itu": "",
+        "picode": "5203"
+      },
+      {
+        "freq": "88.300",
+        "name": "RAI Radio 1 (an)",
+        "antenna": "",
+        "logo": "https://tef.noobish.eu/logos/I/5201.png",
+        "itu": "I",
+        "picode": "5201"
+      },
+      {
+        "freq": "89.200",
+        "name": "R. Esmeralda (pu)",
+        "antenna": "",
+        "logo": "",
+        "itu": "I",
+        "picode": "5077"
+      },
+      {
+        "freq": "89.800",
+        "name": "Radio blu (pu)",
+        "antenna": "",
+        "logo": "https://cdn.onlineradiobox.com/img/l/7/15287.v2.png",
+        "itu": "I",
+        "picode": "531B"
+      },
+      {
+        "freq": "91.800",
+        "name": "Skyline Radio & Soul (an)",
+        "antenna": "",
+        "logo": "",
+        "itu": "I",
+        "picode": "5581"
+      },
+      {
+        "freq": "92.900",
+        "name": "Veronica My Radio (pu)",
+        "antenna": "",
+        "logo": "https://cdn.onlineradiobox.com/img/l/6/15536.v4.png",
+        "itu": "I",
+        "picode": "5281"
+      }
+    ],
+    "Es": [
+      {
+        "freq": "65.900",
+        "name": "",
+        "antenna": "1",
+        "logo": "",
+        "itu": "",
+        "picode": "?"
+      }
+    ],
+    "MW": [
+      {
+        "freq": "1.170",
+        "name": "R. Capodistria",
+        "antenna": "1",
+        "logo": "",
+        "itu": "",
+        "picode": "?"
+      },
+      {
+        "freq": "0.549",
+        "name": "R. Koper",
+        "antenna": "1",
+        "logo": "",
+        "itu": "SLV",
+        "picode": "?"
+      },
+      {
+        "freq": "1.071",
+        "name": "Voglia di Radio",
+        "antenna": "1",
+        "logo": "",
+        "itu": "I",
+        "picode": "?"
+      },
+      {
+        "freq": "1.017",
+        "name": "Amica Radio Veneta",
+        "antenna": "1",
+        "logo": "",
+        "itu": "I",
+        "picode": "?"
+      },
+      {
+        "freq": "1.503",
+        "name": "R. Metropolis",
+        "antenna": "1",
+        "logo": "",
+        "itu": "I",
+        "picode": "?"
+      }
+    ]
+  },
+  "metadata": {
+    "origin": "Remote URL",
+    "source": "https://raw.githubusercontent.com/mm-prg/TefData/main/FavStations/FavStations.json",
+    "date": "31/05/2026, 19:23:52"
+  }
+}
